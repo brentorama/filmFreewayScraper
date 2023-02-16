@@ -1,0 +1,5 @@
+0.2.0
+  Added many functions for common picore tasks and supplimental things like creating icons for shots
+
+0.1.0
+  Initial release

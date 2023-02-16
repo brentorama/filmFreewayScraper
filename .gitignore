@@ -1,0 +1,6 @@
+/release
+/.build
+*.dblite
+*.pyc
+*.kra
+._*
